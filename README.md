@@ -1,2 +1,2 @@
 # WebTest
-<h1> Moving To <a src="https://github.com/Zenodeon/Osu-RemoteCapture"> Osu!Remote Capture </a>
+<h1> Moving To [Osu!Remote Capture]: https://github.com/Zenodeon/Osu-RemoteCapture 
